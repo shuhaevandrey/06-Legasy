@@ -3,7 +3,7 @@
 
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-//XXXX   класс "Контроллер"   XXXXXXXX
+//XXXX   РєР»Р°СЃСЃ "РљРѕРЅС‚СЂРѕР»Р»РµСЂ"   XXXXXXXX
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
@@ -19,9 +19,9 @@ class Ctrl: virtual public IElectronics
         virtual~Ctrl() = default;
 };
 
-//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXХХХХХХХ
-//XXXX   класс "Игровая приставка"   XXXXXXXX
-//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXХХХХХХХ
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXРҐРҐРҐРҐРҐРҐРҐ
+//XXXX   РєР»Р°СЃСЃ "РРіСЂРѕРІР°СЏ РїСЂРёСЃС‚Р°РІРєР°"   XXXXXXXX
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXРҐРҐРҐРҐРҐРҐРҐ
 
 class GameBox: public Ctrl
 {

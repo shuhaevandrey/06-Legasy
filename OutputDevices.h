@@ -3,7 +3,7 @@
 
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-//XXXXЧЧ   класс "Экран"   XXXXXXXXX
+//XXXXР§Р§   РєР»Р°СЃСЃ "Р­РєСЂР°РЅ"   XXXXXXXXX
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 class Screen: virtual public IElectronics
@@ -20,7 +20,7 @@ class Screen: virtual public IElectronics
 
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-//XXXX   класс "Телевизор"   XXXXXXXX
+//XXXX   РєР»Р°СЃСЃ "РўРµР»РµРІРёР·РѕСЂ"   XXXXXXXX
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 class TV: public Screen

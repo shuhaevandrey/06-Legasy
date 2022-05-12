@@ -6,7 +6,7 @@ using namespace std;
 
 
     //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    //XXXX   класс "Экран"   XXXXXXXX
+    //XXXX   РєР»Р°СЃСЃ "Р­РєСЂР°РЅ"   XXXXXXXX
     //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
@@ -23,7 +23,7 @@ using namespace std;
 
 
     //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    //XXXX   класс "Телевизор"   XXXXXXXX
+    //XXXX   РєР»Р°СЃСЃ "РўРµР»РµРІРёР·РѕСЂ"   XXXXXXXX
     //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 

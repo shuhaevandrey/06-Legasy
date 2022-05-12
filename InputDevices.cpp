@@ -8,7 +8,7 @@ using namespace std;
 
 
     //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    //XXXX   ÍÎ‡ÒÒ " ÓÌÚÓÎÎÂ"   XXXXXXXX
+    //XXXX   –∫–ª–∞—Å—Å "–ö–æ–Ω—Ç—Ä–æ–ª–ª–µ—Ä"   XXXXXXXX
     //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     Ctrl::Ctrl(string ctrlType): _ctrlType(ctrlType)
@@ -22,9 +22,9 @@ using namespace std;
     }
 
 
-    //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX’’’’’’’
-    //XXXX   ÍÎ‡ÒÒ "»„Ó‚‡ˇ ÔËÒÚ‡‚Í‡"   XXXXXXXX
-    //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX’’’’’’’
+    //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX–•–•–•–•–•–•–•
+    //XXXX   –∫–ª–∞—Å—Å "–ò–≥—Ä–æ–≤–∞—è –ø—Ä–∏—Å—Ç–∞–≤–∫–∞"   XXXXXXXX
+    //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX–•–•–•–•–•–•–•
 
     GameBox::GameBox(string ctrlType, int cpuGgz): Ctrl(ctrlType), _cpuGgz(cpuGgz)
     {
